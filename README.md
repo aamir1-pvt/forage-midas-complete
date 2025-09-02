@@ -1,11 +1,4 @@
 #  Midas Financial Simulation
-
-![GitHub Repo stars](https://img.shields.io/github/stars/aamir1-pvt/forage-midas-complete?style=social)
-![GitHub forks](https://img.shields.io/github/forks/aamir1-pvt/forage-midas-complete?style=social)
-![GitHub issues](https://img.shields.io/github/issues/aamir1-pvt/forage-midas-complete)
-![GitHub license](https://img.shields.io/github/license/aamir1-pvt/forage-midas-complete)
-![Made with Java](https://img.shields.io/badge/Made%20with-Java-red)
-
 ---
 
 ##  Project Overview
